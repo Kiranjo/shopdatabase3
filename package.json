@@ -1,0 +1,19 @@
+{
+  "name": "shopdatabase3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shopDatabaseFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node shopDatabaseFile.js"
+  },
+  "keywords": [
+    "node",
+    "build"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
